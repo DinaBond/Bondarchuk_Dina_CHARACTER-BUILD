@@ -107,7 +107,7 @@ footer {
     top: 100%
 }
 
-/*
+
 .lightbox {
     position: absolute;
     top: 0;
@@ -182,4 +182,3 @@ footer {
 .lightbox:target {
     display: block;
 }
-*/
