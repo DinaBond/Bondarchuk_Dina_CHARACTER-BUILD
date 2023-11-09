@@ -107,6 +107,7 @@ footer {
     top: 100%
 }
 
+/*
 .lightbox {
     position: absolute;
     top: 0;
@@ -177,7 +178,8 @@ footer {
 .lb_text {
     line-height: 26px;
 }
-/* .lightbox #lightbox2 or .lightbox#lightbox */
+
 .lightbox:target {
     display: block;
 }
+*/
